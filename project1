@@ -1,0 +1,10 @@
+pacage main
+
+import "fmt"
+
+func main() { 
+a := "delniya" fmt.print(a)
+
+}
+
+
